@@ -7,7 +7,7 @@ The Logo Generator is a command-line application that lets you generate simple l
 ## Installation
 To install the Logo Generator, you'll need to have Node.js and npm installed on your machine. Then, follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/logo-generator.git
+Clone this repository: git clone [https://github.com/your-username/logo-generator.git](https://github.com/snowthebotttt/SVG-Generator)
 Navigate to the project directory: cd logo-generator
 Install the dependencies: npm install
 Usage
